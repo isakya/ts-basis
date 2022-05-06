@@ -18,3 +18,7 @@ arr2[1] = 10
 
 // 元组
 let arr3: [number, number, boolean] = [10, 20, true]
+
+
+// 无限制数组类型的写法(考题)
+let arr4: any[] = [1, 2, 3, '4', true]
